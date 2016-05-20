@@ -2,6 +2,7 @@
 QF Open Source High imitation WeChat picture browser view
 
 #DEMO
+![demo.gif](https://github.com/QianFanYun/QF-Picture-Viewer/blob/master/demo.gif)
 
 ### GallaryImageSelectActivity
 这是相册图片浏览和选择的类
