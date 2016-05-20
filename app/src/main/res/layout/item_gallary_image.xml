@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <com.qianfan.photoview.gallaryImageSelect.GallarySquareImageView
+        android:id="@+id/gallary_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop" />
+
+    <RelativeLayout
+        android:id="@+id/rl_select_image"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/image_has_selected"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:background="@mipmap/picture_unselected"
+            android:visibility="visible" />
+
+    </RelativeLayout>
+</RelativeLayout>
