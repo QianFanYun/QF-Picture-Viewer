@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="100dp">
 
-    <com.qianfan.photoview.gallaryImageSelect.GallaryImageView
+    <com.qianfanyun.photoview.gallaryImageSelect.GallaryImageView
         android:id="@+id/image_gallary_cover"
         android:layout_width="100dp"
         android:layout_height="match_parent"

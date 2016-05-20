@@ -1,4 +1,4 @@
-package com.qianfan.photoview.gallaryImageSelect;
+package com.qianfanyun.photoview.gallaryImageSelect;
 
 import android.content.Context;
 import android.util.AttributeSet;

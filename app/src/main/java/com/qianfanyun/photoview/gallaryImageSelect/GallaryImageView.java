@@ -1,12 +1,11 @@
-package com.qianfan.photoview.gallaryImageSelect;
+package com.qianfanyun.photoview.gallaryImageSelect;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
-import com.qianfan.photoview.R;
-
+import com.qianfanyun.photoview.R;
 import java.io.File;
 
 /**

@@ -1,4 +1,4 @@
-package com.qianfan.photoview.gallaryImageSelect;
+package com.qianfanyun.photoview.gallaryImageSelect;
 
 import android.Manifest;
 import android.app.AlertDialog;
@@ -36,7 +36,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.qianfan.photoview.R;
+import com.qianfanyun.photoview.R;
 
 import java.io.File;
 import java.util.ArrayList;

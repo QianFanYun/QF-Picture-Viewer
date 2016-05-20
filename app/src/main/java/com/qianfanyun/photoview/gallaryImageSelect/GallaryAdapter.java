@@ -1,4 +1,4 @@
-package com.qianfan.photoview.gallaryImageSelect;
+package com.qianfanyun.photoview.gallaryImageSelect;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.Toast;
 
-import com.qianfan.photoview.R;
+import com.qianfanyun.photoview.R;
 
 import java.io.File;
 import java.util.ArrayList;

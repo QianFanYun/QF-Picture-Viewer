@@ -1,4 +1,4 @@
-package com.qianfan.photoview.gallaryImageSelect;
+package com.qianfanyun.photoview.gallaryImageSelect;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.qianfan.photoview.R;
+import com.qianfanyun.photoview.R;
 
 import java.io.File;
 import java.util.ArrayList;

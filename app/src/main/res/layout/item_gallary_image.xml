@@ -5,7 +5,7 @@
     android:background="@color/white"
     android:orientation="vertical">
 
-    <com.qianfan.photoview.gallaryImageSelect.GallarySquareImageView
+    <com.qianfanyun.photoview.gallaryImageSelect.GallarySquareImageView
         android:id="@+id/gallary_image"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

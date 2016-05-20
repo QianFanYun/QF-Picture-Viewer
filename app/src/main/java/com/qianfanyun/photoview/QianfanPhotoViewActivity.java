@@ -1,4 +1,4 @@
-package com.qianfan.photoview;
+package com.qianfanyun.photoview;
 
 import android.content.Context;
 import android.content.Intent;
@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-import com.qianfan.photoview.gallaryImageSelect.GallaryImageSelectActivity;
+import com.qianfanyun.photoview.gallaryImageSelect.GallaryImageSelectActivity;
 
 public class QianfanPhotoViewActivity extends AppCompatActivity implements View.OnClickListener {
 

@@ -1,4 +1,4 @@
-package com.qianfan.photoview.gallaryImageSelect;
+package com.qianfanyun.photoview.gallaryImageSelect;
 
 /**
  * @author  by mortonws on 2016/5/18.
