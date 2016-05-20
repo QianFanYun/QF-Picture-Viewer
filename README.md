@@ -2,7 +2,6 @@
 QF Open Source High imitation WeChat picture browser view
 
 #DEMO
-[http://git.oschina.net/morton_ws/helloworld/raw/master/demo.gif?dir=0&filepath=demo.gif&oid=758ae13e8aaf15574909e461d30ec4c840129fc6&sha=2e3c28404c6d4637d322d2f2c83b44dd38d4400b](http://git.oschina.net/morton_ws/helloworld/raw/master/demo.gif?dir=0&filepath=demo.gif&oid=758ae13e8aaf15574909e461d30ec4c840129fc6&sha=2e3c28404c6d4637d322d2f2c83b44dd38d4400b "demo")
 
 ### GallaryImageSelectActivity
 这是相册图片浏览和选择的类
